@@ -143,7 +143,23 @@ SECCIÓN 8–5 Teorema de Thevenin
 
 # CONCLUSIONES
 
+- Es fundamental tener muy encuenta los conceptos basicos de lo que es un circuito en serie y paralelo.
+- Saber identifaicar una circuito DELTA-Y y Y-DELTA 
+- Sber identificar lo que es Thevenin y Norton
+- Al resolver los problemas se tiene que tener en cuenta todo lo aprendido anterior mente ya que sera apicable en todo el estudio de circuito en serie y paralelo.
 
+- Se pone en practica la ley de ohm para poder resolver los circuitos presentes.
+
+# VIDEO
+
+https://youtu.be/L3dprMsesRs
+
+# BIBLIOGRAFIA
+ Rodriguez, D. (2020). FLOYD OCTAVA EDICIÓN Principios de circuitos eléctricos. Principios de circuitos eléctricos. https://www.academia.edu/42923009/FLOYD_OCTAVA_EDICI%C3%93N_Principios_de_circuitos_el%C3%A9ctricos
+ 
+ Circuito paralelo. Xunta.gal. Recuperado el 7 de junio de 2022, de https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1464947843/contido/323_circuito_paralelo.html
+
+Circuito en Serie - Concepto, elementos y ejemplos. Concepto. Recuperado el 7 de junio de 2022, de https://concepto.de/circuito-en-serie/
 
 
 
