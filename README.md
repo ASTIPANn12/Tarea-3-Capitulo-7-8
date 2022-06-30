@@ -110,6 +110,38 @@ __SECCIÓN 7–3 Divisores de voltaje con cargas resistivas__
 
 ![image](https://user-images.githubusercontent.com/105671364/176729005-60788a83-7b2c-43c9-b103-6f28eb61e5a6.png)
 
+__TEMA 8 TEOREMAS DE CIRCUITOS Y CONVERSIONES___
+
+2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
+
+![image](https://user-images.githubusercontent.com/105671364/176731960-84ab68aa-15e7-46d7-ac21-c102abc41397.png)
+
+![image](https://user-images.githubusercontent.com/105671364/176732201-7c817a1f-aa0c-41f5-abef-128fdc520956.png)
+
+4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
+
+![image](https://user-images.githubusercontent.com/105671364/176732321-4b98faff-65fc-42f6-857d-3112be7e4885.png)
+
+6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
+
+![image](https://user-images.githubusercontent.com/105671364/176732563-ae78d8c1-7313-4325-a421-11831c8cb8f9.png)
+
+![image](https://user-images.githubusercontent.com/105671364/176732498-818c3e78-73a6-4a95-bf75-fef200d58c51.png)
+
+__SECCIÓN 8–4 El teorema de superposición__
+
+8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/105671364/176732709-90cf1570-4c2a-4abf-b02d-5fe29f0f4758.png)
+
+SECCIÓN 8–5 Teorema de Thevenin
+
+16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/105671364/176732840-14c2e6a5-6af3-4ee5-9d7c-8d1013e35628.png)
+
+
+# CONCLUSIONES
 
 
 
